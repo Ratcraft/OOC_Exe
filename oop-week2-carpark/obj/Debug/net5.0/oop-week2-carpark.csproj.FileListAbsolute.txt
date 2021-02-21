@@ -1,0 +1,16 @@
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\obj\Debug\net5.0\oop-week2-carpark.csprojAssemblyReference.cache
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\obj\Debug\net5.0\oop-week2-carpark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\obj\Debug\net5.0\oop-week2-carpark.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\obj\Debug\net5.0\oop-week2-carpark.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\obj\Debug\net5.0\oop-week2-carpark.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\bin\Debug\net5.0\oop-week2-carpark.exe
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\bin\Debug\net5.0\oop-week2-carpark.deps.json
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\bin\Debug\net5.0\oop-week2-carpark.runtimeconfig.json
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\bin\Debug\net5.0\oop-week2-carpark.runtimeconfig.dev.json
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\bin\Debug\net5.0\oop-week2-carpark.dll
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\bin\Debug\net5.0\ref\oop-week2-carpark.dll
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\bin\Debug\net5.0\oop-week2-carpark.pdb
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\obj\Debug\net5.0\oop-week2-carpark.dll
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\obj\Debug\net5.0\ref\oop-week2-carpark.dll
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\obj\Debug\net5.0\oop-week2-carpark.pdb
+C:\Users\alexi\OneDrive\Desktop\Dorset\oop-week2-carpark\obj\Debug\net5.0\oop-week2-carpark.genruntimeconfig.cache

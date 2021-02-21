@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "oop-week2-carpark/1.0.0": {
+        "runtime": {
+          "oop-week2-carpark.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oop-week2-carpark/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
