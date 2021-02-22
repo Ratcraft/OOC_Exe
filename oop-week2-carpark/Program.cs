@@ -51,22 +51,14 @@ namespace oop_week2_carpark
             DateTime date1 = new DateTime(2021,2,21,15,0,0);
             customer customer1 = new customer(){Name = "Alexis", Entry = date1,Amount = 0};
             customer1.Amount = calculateCharges(customer1);
-            Console.WriteLine(customer1);
-            Console.WriteLine(customer1.Name + " must pay " + customer1.Amount + " euros" + "\n");
 
             DateTime date2 = new DateTime(2021,2,21,10,0,0);
             customer customer2 = new customer(){Name = "Henri", Entry = date2,Amount = 0};
             customer2.Amount = calculateCharges(customer2);
-            Console.WriteLine(customer2);
-            Console.WriteLine(customer2.Name + " must pay " + customer2.Amount + " euros" + "\n");
 
             DateTime date3 = new DateTime(2021,2,20,22,0,0);
             customer customer3 = new customer(){Name = "Lou", Entry = date3,Amount = 0};
             customer3.Amount = calculateCharges(customer3);
-            Console.WriteLine(customer3);
-            Console.WriteLine(customer3.Name + " must pay " + customer3.Amount + " euros" + "\n");
-
-            Console.WriteLine("Total income : {0} euros ",income);
         }
     }
 }
